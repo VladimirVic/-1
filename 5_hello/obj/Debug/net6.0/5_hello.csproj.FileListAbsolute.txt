@@ -1,0 +1,15 @@
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\bin\Debug\net6.0\5_hello.exe
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\bin\Debug\net6.0\5_hello.deps.json
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\bin\Debug\net6.0\5_hello.runtimeconfig.json
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\bin\Debug\net6.0\5_hello.dll
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\bin\Debug\net6.0\5_hello.pdb
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.csproj.AssemblyReference.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.AssemblyInfoInputs.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.AssemblyInfo.cs
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.dll
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\refint\5_hello.dll
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.pdb
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\5_hello.genruntimeconfig.cache
+C:\Users\Владимир\OneDrive\Рабочий стол\GeekBrains\3 неделя языки\С #\axemple\5_hello\obj\Debug\net6.0\ref\5_hello.dll
